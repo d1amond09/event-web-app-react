@@ -24,7 +24,7 @@ export { API_BASE_URL, API_BASE_URL_AUTH };
 ### Шаг 3. Запуск приложения
 
 1. Убедитесь, что проект **EventsWebApp.API** выбран в качестве стартового.
-2. Запустите приложение с помощью http/https или Container (Dockerfile)
+2. Запустите приложение с помощью http/https
 ```bash
 cd your/path/to/event-web-app-react
 npm run dev
